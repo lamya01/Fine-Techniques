@@ -1,4 +1,4 @@
-# Fine - Techniques
+# Fine Techniques
 fine techniques of programming 
 course(UE17CS257D) taken by Prof. N.S Kumar.
 
