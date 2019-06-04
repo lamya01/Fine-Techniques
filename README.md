@@ -7,7 +7,7 @@ course(UE17CS257D) taken by Prof. N.S Kumar.
 1.
 Memory Management – garbage, dangling pointer, dereferencing dangling pointer
 - why it may not crash
-Project: Develop memory manager – safe/unsafe efficient in space and/or time
+- Project: Develop memory manager – safe/unsafe efficient in space and/or time
 
 2.
 Bitwise wise-Store an int in bit – external sorting of unique integers using bits, binary counter
